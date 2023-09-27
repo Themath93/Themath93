@@ -1,10 +1,10 @@
 # 🔧Data Engineer
-- Every thing inside the Data
+- Judge everything through the DATA
 
 ## 😊Interest
 - Ditributed System
 - HA System
-- CAP Theorem
+
   
 ## 📚TechStacks
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black"><img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
